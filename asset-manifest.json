@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://navneetcaet627.github.io/csb-x9v3p/static/js/main.27489dae.chunk.js",
+    "main.js.map": "https://navneetcaet627.github.io/csb-x9v3p/static/js/main.27489dae.chunk.js.map",
+    "runtime-main.js": "https://navneetcaet627.github.io/csb-x9v3p/static/js/runtime-main.9f36eeb3.js",
+    "runtime-main.js.map": "https://navneetcaet627.github.io/csb-x9v3p/static/js/runtime-main.9f36eeb3.js.map",
+    "static/js/2.41d2c938.chunk.js": "https://navneetcaet627.github.io/csb-x9v3p/static/js/2.41d2c938.chunk.js",
+    "static/js/2.41d2c938.chunk.js.map": "https://navneetcaet627.github.io/csb-x9v3p/static/js/2.41d2c938.chunk.js.map",
+    "index.html": "https://navneetcaet627.github.io/csb-x9v3p/index.html",
+    "precache-manifest.d63770a1394f07dd9c4f32e0f78d95d3.js": "https://navneetcaet627.github.io/csb-x9v3p/precache-manifest.d63770a1394f07dd9c4f32e0f78d95d3.js",
+    "service-worker.js": "https://navneetcaet627.github.io/csb-x9v3p/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f36eeb3.js",
+    "static/js/2.41d2c938.chunk.js",
+    "static/js/main.27489dae.chunk.js"
+  ]
+}
